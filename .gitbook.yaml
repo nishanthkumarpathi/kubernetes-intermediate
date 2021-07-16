@@ -1,0 +1,6 @@
+root: ./src/
+
+​structure:  
+    readme:  README.md  
+    summary: SUMMARY.md​
+    
